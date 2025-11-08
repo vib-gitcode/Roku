@@ -15,9 +15,10 @@
         {
             "title": "Coding 101",
             "description": "An introduction to programming for absolute beginners, embedded from youtube.",
-            "thumbnail": "https://example.com/thumbnails/code.jpg",
+            "thumbnail": "../roku.png",
             "url": "https://youtu.be/N7ZmPYaXoic"
         }
     ]
 
 }
+
