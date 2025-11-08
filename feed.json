@@ -14,9 +14,10 @@
         },
         {
             "title": "Coding 101",
-            "description": "An introduction to programming for absolute beginners.",
+            "description": "An introduction to programming for absolute beginners, embedded from youtube.",
             "thumbnail": "https://example.com/thumbnails/code.jpg",
-            "url": "https://example.com/videos/code.mp4"
+            "url": "https://youtu.be/N7ZmPYaXoic"
         }
     ]
+
 }
