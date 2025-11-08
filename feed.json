@@ -1,0 +1,22 @@
+{
+    "videos": [
+        {
+            "title": "The Quantum Journey",
+            "description": "Explore the fascinating world of quantum mechanics in this short film.",
+            "thumbnail": "https://example.com/thumbnails/quantum.jpg",
+            "url": "https://example.com/videos/quantum.mp4"
+        },
+        {
+            "title": "Nature\u2019s Secrets",
+            "description": "A relaxing look at Earth's most beautiful landscapes.",
+            "thumbnail": "https://example.com/thumbnails/nature.jpg",
+            "url": "https://example.com/videos/nature.mp4"
+        },
+        {
+            "title": "Coding 101",
+            "description": "An introduction to programming for absolute beginners.",
+            "thumbnail": "https://example.com/thumbnails/code.jpg",
+            "url": "https://example.com/videos/code.mp4"
+        }
+    ]
+}
